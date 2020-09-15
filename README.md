@@ -3,6 +3,7 @@ Best Node.js boilerplate created by expres.js
 
 ## Before start coding, you should know more about nodejs
 - [NodeBestPractices] (https://github.com/goldbergyoni/nodebestpractices)
+- [JavaScriptStyleGuide] (https://airbnb.io/javascript/)
 
 ## Other Node.js boilerplate you can choose:
 - [node-api-boilerplate] (https://github.com/talyssonoc/node-api-boilerplate)
